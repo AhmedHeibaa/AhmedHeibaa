@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AhmedHeibaa" alt="AhmedHeibaa" /></a> </p>
 
-- 🔭 I’m currently working on **Linking Android app with an IOT system**
+- 🔭 I’m currently working on **Expleo group**
 
 - 🌱 I’m currently learning **Embedded System Software Developing.**
 
